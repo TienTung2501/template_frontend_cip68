@@ -18,7 +18,7 @@ interface NFTData {
   loading: boolean;
 }
 
-const PLATFORM_POLICY_ID = '9a97fb710a29382d31d9d2a40faab64e5c8be912419a806425bfc7d4';
+const PLATFORM_POLICY_ID = '9127f9f55834f6c71fba24ae5712e381cfeb54aabce7072ecfb4739f';
 const USER_TOKEN_PREFIX = '000de140';
 
 /**
